@@ -2,7 +2,7 @@
 
 AeroPinch is a state-of-the-art interactive jigsaw puzzle controlled entirely by webcam hand gestures. Built with React and MediaPipe, it features dynamic difficulties, 8-bit sound effects synthesized on-the-fly, canvas-based particle physics, and a hardware gesture monitor.
 
-👉 **Play Deployed Live Site**: [webcam-puzzle-six.vercel.app](https://webcam-puzzle-six.vercel.app)
+👉 **Play Deployed Live Site**: [webcam-puzzle-flax.vercel.app](https://webcam-puzzle-flax.vercel.app)
 
 ---
 
